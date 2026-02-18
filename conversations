@@ -1,0 +1,6 @@
+conversations
+- id
+- user_id
+- message
+- response
+- timestamp
